@@ -19,12 +19,12 @@ import { book, build, colorFill, grid } from 'ionicons/icons';
 import React from 'react';
 import './Tab1.css';
 
-const Tab1: React.FC = () => {
+const Tab1 = () => {
   return (
     <IonPage>
       <IonHeader>
         <IonToolbar>
-          <IonTitle>Tab One</IonTitle>
+          <IonTitle>Tab Javascript</IonTitle>
         </IonToolbar>
       </IonHeader>
       <IonContent>
