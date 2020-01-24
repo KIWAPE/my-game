@@ -4,7 +4,6 @@ bla bla
 ## Sådan er opstarten lavet
 ```bash
 # sådan er opstarten lavet
-
 ionic start my-game
 ```
 
